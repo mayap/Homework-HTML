@@ -1,0 +1,62 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url('images/wallpaper-sunflower-flower-153024.jpg');
+	font-size: 15px;
+}
+
+h1 {
+	margin-left: 300px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+ul li{
+	list-style-type: none;
+	float: left;
+	position: relative;
+	margin: 15px;
+	margin-top: 30px;
+}
+
+ul li:first-child {
+	margin-left: -15px;
+}
+
+ul a {
+	text-decoration: none;
+	color: black;
+}
+
+ul a:hover {
+	color: green;
+}
+			
+ul {
+	border: 1px solid green;
+	margin-left: 500px;
+}
+
+tr td, th{
+	border: 1px solid black;
+	
+}
+
+table {
+	margin-left: 750px;
+	margin-top: 80px;
+	
+}
+
+form label, input{
+	margin: 2px;
+}
+
+form {
+	margin-left: 680px;
+	margin-top: 80px;
+}
+
+#first {
+	margin-top: 300px;
+}
